@@ -1,0 +1,1 @@
+//El archivo principal que actúa como orquestador del flujo (ejecuta la lectura, llama a los algoritmos de ruteo y genera la salida).

@@ -1,0 +1,1 @@
+//Módulo asignado al Integrante 2, donde reside la lógica algorítmica (como el algoritmo del vecino más cercano o mejoras 2-opt) para organizar las rutas de reparto.

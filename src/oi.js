@@ -1,0 +1,1 @@
+//Módulo asignado al Integrante 1, encargado de la lectura dinámica de los JSONs y de estructurar y guardar el archivo de salida

@@ -1,0 +1,1 @@
+//Módulo asignado al Integrante 1 para comprobar por software las restricciones críticas (evitar vehículos repetidos, inexistentes o pedidos duplicados).

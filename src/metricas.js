@@ -1,0 +1,1 @@
+//Módulo asignado al Integrante 2 para calcular la distancia Manhattan y estimar los costos locales basándose en las reglas del simulador.
