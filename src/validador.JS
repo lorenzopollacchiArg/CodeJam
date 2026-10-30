@@ -1,4 +1,4 @@
-const {cargarDatos} = require ('./io');
+const {cargarDatos} = require ('./io.js');
 const {mundo, pedidos, vehiculos } = cargarDatos();
 
 

@@ -2,9 +2,9 @@ const fs = require ('fs');
 const path = require('path');
 
 function cargarDatos(){
-    const mundo = JSON.parse(fs.readFileSync(path.join(dirname, '../datos/mundo/json'), 'utf-8'));
-    const pedidos  = JSON.parse(fs.readFileSync(path.join(dirname, '../datos/pedidos/json)', ' utf-8')));
-    const vehiculos = JSON.parse(fs.readFileSync(path.join(path.dirname, '../datos/vehiculo/json', 'uft-8')));
+    const mundo = JSON.parse(fs.readFileSync(path.join(__dirname, '../datos/mundo.json'), 'utf-8'));
+    const pedidos  = JSON.parse(fs.readFileSync(path.join(__dirname, '../datos/pedidos.json)', ' utf-8')));
+    const vehiculos = JSON.parse(fs.readFileSync(path.join(__dirname, '../datos/vehiculo.json', 'uft-8')));
 
     return {mundo, pedidos, vehiculos};
 }
